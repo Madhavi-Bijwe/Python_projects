@@ -1,3 +1,4 @@
+#Task 1
 import random
 
 words=["python","java","c","javascript","html","css","php","kotlin","sql","c++","R","Ruby", "Swift","TypeScript"]
@@ -33,3 +34,4 @@ if "_" not in guessed:
     print("🎉 You won! The word was:",word)
 else:
     print("💀 You lost! The word was:",word)
+
